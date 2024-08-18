@@ -4,3 +4,6 @@
 
 🎊 Example - [FlyDB](https://github.com/ByteStorage/flydb), [aDrive](https://github.com/ByteStorage/aDrive)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ByteStorage/FlyDB&type=Date)](https://star-history.com/#ByteStorage/FlyDB&Date)
